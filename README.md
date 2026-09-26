@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi, I'm Semih Çelik
 
-<!--
-**semihceliik/semihceliik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Computer Programming Student** at Kastamonu University
 
-Here are some ideas to get you started:
+I'm a Computer Programming student interested in **software development, web technologies, databases, and digital systems**. I'm currently improving my skills in **C#, HTML, CSS, JavaScript, and SQL** while building my own projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 I enjoy learning by creating projects and turning ideas into working applications. I'm especially interested in **web development, backend systems, and software technologies**.
+
+🛒 I also have experience with **e-commerce and social media management**, which helped me develop skills in digital communication, online sales, content management, and customer-oriented processes.
+
+⚽ Football has been an important part of my life and has helped me develop **discipline, teamwork, communication, and responsibility**.
+
+🎯 My goal is to continuously improve myself, build useful software projects, and develop a successful career in the **IT & Software** field.
+
+### 🛠️ Technologies I'm Learning
+
+* C#
+* HTML & CSS
+* JavaScript
+* SQL / SQL Server
+* ASP.NET Core
+* Git & GitHub
+
+### 📌 Currently
+
+* 🎓 Studying Computer Programming
+* 💻 Building personal software projects
+* 🌱 Learning and improving every day
+* 🚀 Working toward a career in software development
